@@ -23,7 +23,7 @@ The goal is to maximise the number of content children.
 
 ## **Program:**
 
-```
+```java
 /*
 Program to implement Assign Cookies using Greedy Algorithm
 Developed by: VENKATANATHAN P R
