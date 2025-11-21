@@ -1,6 +1,6 @@
 # **EX 2B Minimum Jumps to Reach End using Greedy Algorithm**
 
-## **DATE: 15-10-2025**
+## **DATE: 15-09-2025**
 
 ## **AIM:**
 
@@ -72,6 +72,8 @@ public class MinJumpToEnd {
 ---
 
 ## **Output:**
+
+<img width="1056" height="353" alt="image" src="https://github.com/user-attachments/assets/d3dce493-e9dd-42de-8c52-53e2181933a8" />
 
 
 ## **Result:**
