@@ -1,6 +1,6 @@
 # **EX 2A Assign Cookies using Greedy Algorithm**
 
-## **DATE: 12-10-2025**
+## **DATE: 12-09-2025**
 
 ## **AIM:**
 
