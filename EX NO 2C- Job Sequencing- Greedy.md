@@ -1,6 +1,6 @@
 # **EX 2C Job Sequencing using Greedy Approach**
 
-## **DATE: 18-10-2025**
+## **DATE: 18-09-2025**
 
 ## **AIM:**
 
