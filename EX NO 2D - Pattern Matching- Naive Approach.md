@@ -1,6 +1,6 @@
 # **EX 2D – Pattern Matching using Naive Approach**
 
-## **DATE: 26-10-2025**
+## **DATE: 26-09-2025**
 
 ## **AIM:**
 
